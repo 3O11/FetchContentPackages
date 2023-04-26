@@ -13,3 +13,10 @@
     * **Warning** This might not work out of the box! You might need to do additional changes.
 * Build your project
     * The build may take a while since it downloads the package repo and builds it from source the first time.
+
+## Contributing
+* Use the [Templates](Templates).
+* Check if there is an issue for the package creation. If there isn't, create one.
+* Also dont forget to create an example for your package.
+* Create pull request and allow us to push to your branch that you want to merge with. (It's also best not to use master branch). This will help us make small changes quickly.
+        
